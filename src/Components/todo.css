@@ -1,0 +1,41 @@
+.main-div{
+    background-color: rgb(24, 2, 58);
+    height: 37rem;
+   
+}
+
+.input-items{
+    height: 2rem;
+    width: 15rem;
+    margin-left: 25rem;
+}
+.header1{
+   
+    margin-left: 29rem;
+    color: rgb(225, 228, 234);
+    font-size: medium;
+}
+.add-btn{
+    height: 2.4rem;
+   
+    
+    border: 1px solid black;
+}
+.each-item{
+    
+    margin-left: 25rem;
+}
+.del-btn{
+    height: 2rem;
+   width: 2.2rem;
+    /* margin-left: 12rem; */
+    border: 0.5px solid rgb(4, 4, 72);
+    
+}
+.items-add{
+    width: 15.5rem;
+   
+    border: 0.5px solid black;
+    height: 2rem;
+    
+}
